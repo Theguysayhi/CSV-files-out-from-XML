@@ -28,9 +28,3 @@ it currently has and output them into the root directory of the folder.
 Unit tests may be run using the unittest.py file.
 
 
-
-
-
-1) what was done, 2) what wasn't done, 3) what would be done with more time, 4) Instructions on how to build/run the code and tests
-
-
