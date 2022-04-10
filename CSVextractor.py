@@ -54,18 +54,9 @@ class XmlManager:
 
 
 # --------------------------------------------------------
-
-<<<<<<< Updated upstream
-XMLhelper = xmlManager()
-data = XMLhelper.getCSVData('Testfiles/testfile.xml')
-with open('output.csv', 'w') as f:
-    f.write(data)
-=======
 #print(XmlManager().tostring('Testfiles/testfile.xml'))
 XmlManager().exporttocsvfromxml('Testfiles/testfile.xml')
 print("Operation complete.")
->>>>>>> Stashed changes
-
 
 
 
