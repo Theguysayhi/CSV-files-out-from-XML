@@ -25,6 +25,7 @@ XMLhelper = xmlManager()
 data = XMLhelper.getCSVData('Testfiles/testfile.xml')
 with open('output.csv', 'w') as f:
     f.write(data)
+print("Operation complete.")
 
 
 
